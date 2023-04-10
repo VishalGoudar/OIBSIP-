@@ -11,8 +11,8 @@ Logo created under the virtual internship program of Oasis Infobyte.
 ## Task3 - Business Cards
 Business Cards created under the virtual internship program of Oasis Infobyte. 
 
-## Task3 - Infographics
+## Task4 - Infographics
 Infographics created under the virtual internship program of Oasis Infobyte. 
 
-## Task3 - Magazines and Brochures
+## Task5 - Magazines and Brochures
 Magazines and Brochures created under the virtual internship program of Oasis Infobyte. 
